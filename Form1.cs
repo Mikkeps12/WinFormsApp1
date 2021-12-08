@@ -16,7 +16,7 @@ namespace WinFormsApp1
             label.Text = "Hello";
             label.AutoSize = true;
             label.BackColor = Color.Red;
-            label.ForeColor = Color.Green;
+            label.ForeColor = Color.Blue;
             label.Size = new Size(115, 45);
 
 
